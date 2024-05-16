@@ -1,6 +1,6 @@
 # Picoprobe setup
 
- Two Raspberry Pi Picos are used. PicoA operates as a debug probe, while PicoB serves as the production probe (the target hosting your code).
+Two Raspberry Pi Picos are used. PicoA operates as a debug probe, while PicoB serves as the production probe (the target hosting your code).
 
 ## Flash debug probe (PicoA)
 

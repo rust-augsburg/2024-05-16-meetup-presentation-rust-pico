@@ -1,6 +1,6 @@
 # Introduction
 
-presentation: <SMTODO::>
+presentation: <https://rust-augsburg.github.io/2024-05-16-meetup-presentation-rust-pico/>
 
 repo of the presentation: <https://github.com/rust-augsburg/2024-05-16-meetup-presentation-rust-pico>
 
