@@ -27,7 +27,7 @@ sudo cp ~/Downloads/debugprobe_on_pico.uf2 /media/michael/RPI-RP2
 |     4 | GP2          | Debug1 | SWCLK        |
 |     5 | GP3          | Debug3 | SWDIO        |
 |     6 | GP4/UART1 TX |      2 | GP1/UART0 RX |
-|     7 | GP5/UART1 RX |      1 | GP1/UART0 RX |
+|     7 | GP5/UART1 RX |      1 | GP1/UART0 TX |
 
 **Note**: DebugPins are numbered from left to right when the USB connector is facing up.
 

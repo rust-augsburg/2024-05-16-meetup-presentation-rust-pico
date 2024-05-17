@@ -2,9 +2,10 @@
 
 **Microcontroller: RP2040**
 - `RP` Raspberry
-- `2` number of 
-- `0` ARM-Architecture M0+
-- `4` SRAM: 264KB SRAM
+- `2` number of cores
+- `0` Type of core M0+
+- `4` SRAM: 264KB SRAM `floor(log2(ram / 16k))`
+- `0` onboard volatile storage
 
 **W-Model: Infineon CYW43439**
 - **Integrated Wi-Fi**: 802.11 b/g/n
